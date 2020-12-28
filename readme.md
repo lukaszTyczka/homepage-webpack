@@ -2,7 +2,7 @@
 
 # Website for testing
 
-Website has created on WTF(Co ten frontedn) course.
+Website has created on WTF(Co ten frontend) course.
 
 ## How to use it?
 
