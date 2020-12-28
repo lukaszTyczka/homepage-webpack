@@ -1,8 +1,8 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](./public/readmeImage/website.png)
 
-# WTF Webpack Starter Kit 
+# Website for testing
 
-Simple toolkit for your static websites development.
+Website has created on WTF(Co ten frontedn) course.
 
 ## How to use it?
 
