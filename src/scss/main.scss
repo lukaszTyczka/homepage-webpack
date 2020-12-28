@@ -17,8 +17,8 @@ html {
 /* end section */
 /* 1400ff */
 body {
-    background-color: #ffffff;
-    background: linear-gradient(180deg, $red 0%, $lightRed 100%);
+    background-color: $red;
+    // background: linear-gradient(180deg, $red 0%, $lightRed 100%);
     background-attachment: fixed;
     min-height: 100vh;
 }
