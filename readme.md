@@ -1,4 +1,4 @@
-![cover](https://michalmaj1987.github.io/Portfolio/og-jfd.png)
+![cover](./public/readmeImage/website.png)
 
 # Website for testing
 
